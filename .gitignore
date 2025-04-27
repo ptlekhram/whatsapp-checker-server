@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Puppeteer Auth/Cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Local Chromium (बहुत बड़ी फाइल्स)
+**/.local-chromium/
+
+# OS और Editor
+.DS_Store
+*.log
